@@ -1,0 +1,2 @@
+This small Shiny application demonstrates automatical finding the roots of quadratic equation. Enter the coeffitients a, b, and c of quadratic equation and see the results: the discriminant and roots.
+ Notice: no every quadratic equation has a roots. For more details see http://en.wikipedia.org/wiki/Quadratic_equation
